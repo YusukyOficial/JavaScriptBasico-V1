@@ -57,4 +57,4 @@ Esses exercícios têm como objetivo reforçar o raciocínio lógico e a prátic
 
 ---
 
-Feito com 💙 por [YusukyOficial](https://github.com/YusukyOficial)
+Desenvolvido com 💚 por [YusukyOficial](https://github.com/YusukyOficial)
